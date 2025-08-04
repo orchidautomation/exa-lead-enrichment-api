@@ -62,7 +62,8 @@ def create_app():
             
             # Overall health
             all_keys_present = openrouter_key and exa_key
-            status = "healthy" if all_keys_present else "unhealthy"
+            status = "healthy" if all_keys_present else "degraded"
+            status_code = 200 if all_keys_present else 503
             
             return jsonify({
                 "status": status,
@@ -72,7 +73,7 @@ def create_app():
                     "openrouter_api": "configured" if openrouter_key else "missing",
                     "exa_api": "configured" if exa_key else "missing"
                 }
-            })
+            }), status_code
         except Exception as e:
             logger.error(f"Health check error: {e}")
             return jsonify({
