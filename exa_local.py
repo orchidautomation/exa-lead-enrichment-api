@@ -383,7 +383,7 @@ agent = Agent(
         id=MODEL_ID,
         max_tokens=MAX_TOKENS,
         api_key=os.getenv("OPENROUTER_API_KEY"),
-        timeout=60,  # Set 60 second timeout
+        timeout=300,  # Set 5 minute timeout
         # request_params={"usage": True},
     ),
     response_model=LocalLeadResults,  # Now returns local business contacts

@@ -1,1 +1,1 @@
-web: gunicorn wsgi:app --bind 0.0.0.0:${PORT:-5001} --workers 1 --timeout 120 --preload --access-logfile - --error-logfile -
+web: gunicorn wsgi:app --bind 0.0.0.0:${PORT:-5001} --workers 1 --timeout 300 --preload --access-logfile - --error-logfile -
