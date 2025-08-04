@@ -28,6 +28,8 @@ def create_app():
     
     # Flask configuration
     app.config['JSON_SORT_KEYS'] = False
+    app.config['JSONIFY_PRETTYPRINT_REGULAR'] = True
+    app.json.compact = False
     
     # Enable CORS for all endpoints
     CORS(app, resources={
