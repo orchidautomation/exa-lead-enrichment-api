@@ -19,5 +19,15 @@ echo "✓ OPENROUTER_API_KEY is set"
 echo "✓ EXA_API_KEY is set"
 echo "Starting gunicorn..."
 
-# Start the service
-exec gunicorn wsgi:app --bind 0.0.0.0:${PORT:-5001} --workers 1 --timeout 120 --preload --access-logfile - --error-logfile -
+# Start the service with detailed logging
+exec gunicorn wsgi:app \
+    --bind 0.0.0.0:${PORT:-5001} \
+    --workers 1 \
+    --timeout 180 \
+    --worker-class sync \
+    --threads 1 \
+    --preload \
+    --access-logfile - \
+    --error-logfile - \
+    --log-level debug \
+    --capture-output

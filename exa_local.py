@@ -174,9 +174,10 @@ model_config = get_model_config(MODEL_ID)
 MAX_TOKENS = model_config["max_tokens"]
 USE_JSON_MODE = model_config["use_json_mode"]
 
-print(f"🔧 Model Configuration for {MODEL_ID}:")
+print(f"\n🔧 Model Configuration for {MODEL_ID}:")
 print(f"   - Max Tokens: {MAX_TOKENS}")
 print(f"   - JSON Mode: {USE_JSON_MODE}")
+print(f"   - Debug Mode: {DEBUG_MODE}")
 print(f"   - Usage: python exa-local.py [model_id] (e.g., python exa-local.py google/gemini-2.5-pro)\n")
 
 # Validate required environment variables
@@ -372,19 +373,24 @@ Return LocalLeadResults with:
 """
 
 # Initialize the local lead generation agent
+print(f"🚀 Initializing agent with model: {MODEL_ID}")
+print(f"   OpenRouter API Key: {'✓ Set' if os.getenv('OPENROUTER_API_KEY') else '✗ Missing'}")
+print(f"   Exa API Key: {'✓ Set' if os.getenv('EXA_API_KEY') else '✗ Missing'}")
+
 agent = Agent(
     name="Local Lead Generation Agent",
     model=OpenRouter(
         id=MODEL_ID,
         max_tokens=MAX_TOKENS,
         api_key=os.getenv("OPENROUTER_API_KEY"),
+        timeout=60,  # Set 60 second timeout
         # request_params={"usage": True},
     ),
     response_model=LocalLeadResults,  # Now returns local business contacts
     tools=[
         ExaTools(
-            text_length_limit=4000,
-            num_results=10,  # Balanced for speed
+            text_length_limit=2000,  # Reduced for faster processing
+            num_results=5,  # Reduced for speed
             highlights=True,
             summary=True,
             show_results=True,
@@ -403,6 +409,8 @@ agent = Agent(
     show_tool_calls=True,
     use_json_mode=USE_JSON_MODE
 )
+
+print("✅ Agent initialized successfully")
 
 # Example queries demonstrating various local business scenarios
 if __name__ == "__main__":

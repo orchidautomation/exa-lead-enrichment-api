@@ -45,8 +45,10 @@ def create_app():
         """Lazy load the agent on first use."""
         nonlocal agent
         if agent is None:
+            logger.info("Initializing agent for first time...")
             from exa_local import agent as exa_agent
             agent = exa_agent
+            logger.info("Agent initialized successfully")
         return agent
     
     @app.route('/health', methods=['GET'])
@@ -111,11 +113,15 @@ def create_app():
             
             # Run the agent
             try:
+                logger.info(f"Getting agent instance...")
                 agent = get_agent()
+                logger.info(f"Running agent with query: {query}")
                 results = agent.run(query)
+                logger.info(f"Agent run completed")
                 
                 # Convert Pydantic model to dict
                 results_dict = results.model_dump() if hasattr(results, 'model_dump') else results.dict()
+                logger.info(f"Results converted to dict")
                 
                 processing_time = time.time() - start_time
                 logger.info(f"Request {request_id} completed in {processing_time:.2f}s")
@@ -146,6 +152,16 @@ def create_app():
                 "error": "Invalid request",
                 "detail": str(e)
             }), 400
+    
+    @app.route('/test', methods=['GET', 'POST'])
+    def test_endpoint():
+        """Simple test endpoint to verify API is working."""
+        return jsonify({
+            "status": "ok",
+            "message": "Test endpoint working",
+            "timestamp": datetime.now().isoformat(),
+            "method": request.method
+        })
     
     @app.route('/')
     def index():
