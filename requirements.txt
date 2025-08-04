@@ -4,8 +4,11 @@
 Flask==3.0.0
 flask-cors==4.0.0
 
-# Agent framework
+# Agent framework and tools
 agno>=1.6.0
+agno[openrouter]>=1.6.0
+agno[exa]>=1.6.0
+agno[reasoning]>=1.6.0
 
 # Data validation
 pydantic==2.5.0
