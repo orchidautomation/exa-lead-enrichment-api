@@ -19,6 +19,7 @@ requests>=2.31.0
 
 # AI/ML dependencies
 openai>=1.0.0
+exa-py>=1.0.0
 
 # Production server
 gunicorn==21.2.0
