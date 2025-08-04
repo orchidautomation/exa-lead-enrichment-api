@@ -1,0 +1,12 @@
+run = "python simple_api.py"
+
+[nix]
+channel = "stable-23_05"
+
+[deployment]
+run = ["sh", "-c", "python simple_api.py"]
+deploymentTarget = "cloudrun"
+
+[[ports]]
+localPort = 5000
+externalPort = 80

@@ -1,0 +1,21 @@
+# Core dependencies for Exa Lead Enrichment API
+
+# Web framework
+Flask==3.0.0
+flask-cors==4.0.0
+
+# Agent framework
+agno>=1.6.0
+
+# Data validation
+pydantic==2.5.0
+
+# Environment management
+python-dotenv==1.0.0
+
+# HTTP client (required by agno)
+httpx>=0.25.0
+requests>=2.31.0
+
+# Production server
+gunicorn==21.2.0
