@@ -117,10 +117,35 @@ def create_app():
                 agent = get_agent()
                 logger.info(f"Running agent with query: {query}")
                 results = agent.run(query)
-                logger.info(f"Agent run completed")
+                logger.info(f"Agent run completed, result type: {type(results)}")
                 
-                # Convert Pydantic model to dict
-                results_dict = results.model_dump() if hasattr(results, 'model_dump') else results.dict()
+                # Handle different response types
+                if hasattr(results, 'content'):
+                    # RunResponse object - extract the content
+                    logger.info(f"Extracting content from RunResponse")
+                    if isinstance(results.content, dict):
+                        results_dict = results.content
+                    elif hasattr(results.content, 'model_dump'):
+                        results_dict = results.content.model_dump()
+                    elif hasattr(results.content, 'dict'):
+                        results_dict = results.content.dict()
+                    else:
+                        # Fallback - try to convert to dict
+                        results_dict = {"data": str(results.content)}
+                elif hasattr(results, 'model_dump'):
+                    # Pydantic model
+                    results_dict = results.model_dump()
+                elif hasattr(results, 'dict'):
+                    # Older Pydantic model
+                    results_dict = results.dict()
+                elif isinstance(results, dict):
+                    # Already a dict
+                    results_dict = results
+                else:
+                    # Fallback - convert to string
+                    logger.warning(f"Unknown result type: {type(results)}, converting to string")
+                    results_dict = {"data": str(results)}
+                
                 logger.info(f"Results converted to dict")
                 
                 processing_time = time.time() - start_time
