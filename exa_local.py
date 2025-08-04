@@ -162,9 +162,12 @@ def get_model_config(model_id):
     """Get configuration for a specific model, with fallback to defaults."""
     return MODEL_CONFIGS.get(model_id, MODEL_CONFIGS["default"])
 
-# Set your model here - can be overridden by command line argument
+# Set your model here - can be overridden by command line argument or environment
 DEFAULT_MODEL = "anthropic/claude-sonnet-4"
-MODEL_ID = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_MODEL
+# Check for environment variable first, then command line arg, then default
+MODEL_ID = os.getenv('DEFAULT_MODEL', DEFAULT_MODEL)
+if len(sys.argv) > 1 and not sys.argv[0].endswith('gunicorn'):
+    MODEL_ID = sys.argv[1]
 
 # Get model-specific configuration
 model_config = get_model_config(MODEL_ID)
