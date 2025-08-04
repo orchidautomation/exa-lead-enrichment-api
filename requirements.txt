@@ -17,5 +17,8 @@ python-dotenv==1.0.0
 httpx>=0.25.0
 requests>=2.31.0
 
+# AI/ML dependencies
+openai>=1.0.0
+
 # Production server
 gunicorn==21.2.0
