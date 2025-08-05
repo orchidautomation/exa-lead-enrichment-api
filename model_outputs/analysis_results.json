@@ -1,0 +1,1387 @@
+{
+  "glm_4_5": {
+    "contacts_found": 11,
+    "contacts": [
+      {
+        "name": "Travis Hopkins",
+        "title": "Unknown"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence scoring"
+      },
+      {
+        "name": "Tennessee Turfgrass",
+        "title": "April"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Found Key Contact",
+        "title": "Verify Current Status"
+      },
+      {
+        "name": "Another Booming Year",
+        "title": "Issuu"
+      },
+      {
+        "name": "Pro Shop",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Type"
+      },
+      {
+        "name": "Public Golf Course",
+        "title": "Address"
+      },
+      {
+        "name": "Golf Course Superintendent",
+        "title": "Status"
+      },
+      {
+        "name": "Katie Brinker",
+        "title": "Head Golf Professional"
+      }
+    ],
+    "benchmark_matches": [
+      "Travis Hopkins",
+      "Katie Brinker"
+    ],
+    "benchmark_missed": [
+      "Forrest Salts",
+      "Joe Parker",
+      "Pete Parker",
+      "Bo Harris"
+    ],
+    "extra_contacts": [
+      {
+        "name": "Quality Control",
+        "title": "Confidence scoring"
+      },
+      {
+        "name": "Tennessee Turfgrass",
+        "title": "April"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Found Key Contact",
+        "title": "Verify Current Status"
+      },
+      {
+        "name": "Another Booming Year",
+        "title": "Issuu"
+      },
+      {
+        "name": "Pro Shop",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Type"
+      },
+      {
+        "name": "Public Golf Course",
+        "title": "Address"
+      },
+      {
+        "name": "Golf Course Superintendent",
+        "title": "Status"
+      }
+    ],
+    "accuracy": 0.3333333333333333
+  },
+  "gemini_pro": {
+    "contacts_found": 26,
+    "contacts": [
+      {
+        "name": "Pro Shop",
+        "title": "Unknown"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence scoring"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Golf in Knoxville"
+      },
+      {
+        "name": "Brad Courteau",
+        "title": "Golf Course Superintendent"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Scholarship Directory",
+        "title": "BigFuture Scholarship Search"
+      },
+      {
+        "name": "Katie Brinker Golf",
+        "title": "Knoxville T"
+      },
+      {
+        "name": "Denise Adams",
+        "title": "Christopher D"
+      },
+      {
+        "name": "Michael Stephen Ebanks",
+        "title": "Jeremy      \n     Richard Frampton"
+      },
+      {
+        "name": "Jamie Lynn Hand",
+        "title": "Christopher Lee Heard"
+      },
+      {
+        "name": "Lucas John Kimmel",
+        "title": "Bryan A"
+      },
+      {
+        "name": "Don Self",
+        "title": "Nathan Scott West"
+      },
+      {
+        "name": "West Fatalities",
+        "title": "Rick Husband"
+      },
+      {
+        "name": "Kalpana Chawla",
+        "title": "Laurel Clark"
+      },
+      {
+        "name": "Morris Bridges",
+        "title": "Perry Calvin"
+      },
+      {
+        "name": "Cody Dragoo",
+        "title": "Kenny Harris"
+      },
+      {
+        "name": "Jimmy Matus",
+        "title": "Judith Ann   \n     Monroe"
+      },
+      {
+        "name": "Joey Pustejovsky",
+        "title": "Cyrus Adam Reed"
+      },
+      {
+        "name": "Mariano Saldivar",
+        "title": "Kevin     \n     William Sanders"
+      },
+      {
+        "name": "Jerry Don Self",
+        "title": "Nathan Scott West"
+      },
+      {
+        "name": "Business Information",
+        "title": "Family owned"
+      },
+      {
+        "name": "Public Golf Course",
+        "title": "Address"
+      },
+      {
+        "name": "Pro Shop Management",
+        "title": "Phone"
+      },
+      {
+        "name": "Travis Hopkins",
+        "title": "President/Owner"
+      },
+      {
+        "name": "Joe Parker",
+        "title": "Superintendent"
+      },
+      {
+        "name": "Katie Brinker",
+        "title": "Head Golf Professional"
+      }
+    ],
+    "benchmark_matches": [
+      "Katie Brinker",
+      "Travis Hopkins",
+      "Joe Parker",
+      "Katie Brinker"
+    ],
+    "benchmark_missed": [
+      "Forrest Salts",
+      "Pete Parker",
+      "Bo Harris"
+    ],
+    "extra_contacts": [
+      {
+        "name": "Pro Shop",
+        "title": "Unknown"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence scoring"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Golf in Knoxville"
+      },
+      {
+        "name": "Brad Courteau",
+        "title": "Golf Course Superintendent"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Scholarship Directory",
+        "title": "BigFuture Scholarship Search"
+      },
+      {
+        "name": "Denise Adams",
+        "title": "Christopher D"
+      },
+      {
+        "name": "Michael Stephen Ebanks",
+        "title": "Jeremy      \n     Richard Frampton"
+      },
+      {
+        "name": "Jamie Lynn Hand",
+        "title": "Christopher Lee Heard"
+      },
+      {
+        "name": "Lucas John Kimmel",
+        "title": "Bryan A"
+      },
+      {
+        "name": "Don Self",
+        "title": "Nathan Scott West"
+      },
+      {
+        "name": "West Fatalities",
+        "title": "Rick Husband"
+      },
+      {
+        "name": "Kalpana Chawla",
+        "title": "Laurel Clark"
+      },
+      {
+        "name": "Morris Bridges",
+        "title": "Perry Calvin"
+      },
+      {
+        "name": "Cody Dragoo",
+        "title": "Kenny Harris"
+      },
+      {
+        "name": "Jimmy Matus",
+        "title": "Judith Ann   \n     Monroe"
+      },
+      {
+        "name": "Joey Pustejovsky",
+        "title": "Cyrus Adam Reed"
+      },
+      {
+        "name": "Mariano Saldivar",
+        "title": "Kevin     \n     William Sanders"
+      },
+      {
+        "name": "Jerry Don Self",
+        "title": "Nathan Scott West"
+      },
+      {
+        "name": "Business Information",
+        "title": "Family owned"
+      },
+      {
+        "name": "Public Golf Course",
+        "title": "Address"
+      },
+      {
+        "name": "Pro Shop Management",
+        "title": "Phone"
+      }
+    ],
+    "accuracy": 0.6666666666666666
+  },
+  "qwen3": {
+    "contacts_found": 33,
+    "contacts": [
+      {
+        "name": "Trey Parker",
+        "title": "Unknown"
+      },
+      {
+        "name": "Debug Mode",
+        "title": "True"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence"
+      },
+      {
+        "name": "Initial Analysis                                                   \n      Reasoning",
+        "title": "Looking"
+      },
+      {
+        "name": "Driving Range",
+        "title": "Chipping"
+      },
+      {
+        "name": "Maxim Golf Solutions",
+        "title": "Maxim Golf Solutions"
+      },
+      {
+        "name": "Information Analysis                                      \n      Reasoning",
+        "title": "Initial"
+      },
+      {
+        "name": "Deadhorse Lodge",
+        "title": "Mercer"
+      },
+      {
+        "name": "Turtle Flambeau Flowage",
+        "title": "Deadhorse Lodge"
+      },
+      {
+        "name": "Dead River        \n     Campers",
+        "title": "Inc"
+      },
+      {
+        "name": "Dead River Campers",
+        "title": "Inc"
+      },
+      {
+        "name": "Dead River       \n      Campers",
+        "title": "Inc"
+      },
+      {
+        "name": "Pearl Street",
+        "title": "Ishpeming"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Frank Gardner Ln",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Camruinn Morgan",
+        "title": "Rumsey"
+      },
+      {
+        "name": "Vero Beachside Newspaper",
+        "title": "Vero Beach"
+      },
+      {
+        "name": "Frank Gardner  \n      Ln",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Sherrill Blvd",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Email Pattern",
+        "title": "Need"
+      },
+      {
+        "name": "Information Analysis                                       \n      Reasoning",
+        "title": "From"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Physical"
+      },
+      {
+        "name": "Information Analysis                                 \n      Reasoning",
+        "title": "The"
+      },
+      {
+        "name": "Vice President",
+        "title": "Employment Status"
+      },
+      {
+        "name": "Last Verified",
+        "title": "January"
+      },
+      {
+        "name": "Primary Sources",
+        "title": "Company"
+      },
+      {
+        "name": "Secondary Verification",
+        "title": "Local"
+      },
+      {
+        "name": "Contact Methods Searched",
+        "title": "Phone"
+      },
+      {
+        "name": "Position Types Searched",
+        "title": "Superintendent"
+      },
+      {
+        "name": "Data Recency",
+        "title": "All"
+      },
+      {
+        "name": "Travis Hopkins",
+        "title": "President/Owner"
+      },
+      {
+        "name": "Pete Parker",
+        "title": "Superintendent"
+      },
+      {
+        "name": "Katie Brinker",
+        "title": "Head Golf Professional"
+      }
+    ],
+    "benchmark_matches": [
+      "Joe Parker",
+      "Travis Hopkins",
+      "Pete Parker",
+      "Katie Brinker"
+    ],
+    "benchmark_missed": [
+      "Forrest Salts",
+      "Bo Harris"
+    ],
+    "extra_contacts": [
+      {
+        "name": "Debug Mode",
+        "title": "True"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence"
+      },
+      {
+        "name": "Initial Analysis                                                   \n      Reasoning",
+        "title": "Looking"
+      },
+      {
+        "name": "Driving Range",
+        "title": "Chipping"
+      },
+      {
+        "name": "Maxim Golf Solutions",
+        "title": "Maxim Golf Solutions"
+      },
+      {
+        "name": "Information Analysis                                      \n      Reasoning",
+        "title": "Initial"
+      },
+      {
+        "name": "Deadhorse Lodge",
+        "title": "Mercer"
+      },
+      {
+        "name": "Turtle Flambeau Flowage",
+        "title": "Deadhorse Lodge"
+      },
+      {
+        "name": "Dead River        \n     Campers",
+        "title": "Inc"
+      },
+      {
+        "name": "Dead River Campers",
+        "title": "Inc"
+      },
+      {
+        "name": "Dead River       \n      Campers",
+        "title": "Inc"
+      },
+      {
+        "name": "Pearl Street",
+        "title": "Ishpeming"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Frank Gardner Ln",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Camruinn Morgan",
+        "title": "Rumsey"
+      },
+      {
+        "name": "Vero Beachside Newspaper",
+        "title": "Vero Beach"
+      },
+      {
+        "name": "Frank Gardner  \n      Ln",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Sherrill Blvd",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Email Pattern",
+        "title": "Need"
+      },
+      {
+        "name": "Information Analysis                                       \n      Reasoning",
+        "title": "From"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Physical"
+      },
+      {
+        "name": "Information Analysis                                 \n      Reasoning",
+        "title": "The"
+      },
+      {
+        "name": "Vice President",
+        "title": "Employment Status"
+      },
+      {
+        "name": "Last Verified",
+        "title": "January"
+      },
+      {
+        "name": "Primary Sources",
+        "title": "Company"
+      },
+      {
+        "name": "Secondary Verification",
+        "title": "Local"
+      },
+      {
+        "name": "Contact Methods Searched",
+        "title": "Phone"
+      },
+      {
+        "name": "Position Types Searched",
+        "title": "Superintendent"
+      },
+      {
+        "name": "Data Recency",
+        "title": "All"
+      }
+    ],
+    "accuracy": 0.6666666666666666
+  },
+  "deepseek_r1": {
+    "contacts_found": 35,
+    "contacts": [
+      {
+        "name": "Debug Mode",
+        "title": "True"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence"
+      },
+      {
+        "name": "Analysis Plan                                     \n      Reasoning",
+        "title": "Need"
+      },
+      {
+        "name": "Head Groundskeeper",
+        "title": "General Manager"
+      },
+      {
+        "name": "Head Golf Professional",
+        "title": "Director"
+      },
+      {
+        "name": "Leadership Contacts                                     \n      Reasoning",
+        "title": "Confirmed"
+      },
+      {
+        "name": "Booking System",
+        "title": "Organizer"
+      },
+      {
+        "name": "American Sign Language",
+        "title": "English Interpreting"
+      },
+      {
+        "name": "Pete Owens",
+        "title": "Dollywood"
+      },
+      {
+        "name": "Frank Gardner Lane",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Hutch Brown",
+        "title": "Office"
+      },
+      {
+        "name": "San Francisco",
+        "title": "California"
+      },
+      {
+        "name": "Initial Findings                                           \n      Reasoning",
+        "title": "From"
+      },
+      {
+        "name": "Trey Parker",
+        "title": "Vice President"
+      },
+      {
+        "name": "Forrest Salts",
+        "title": "Assistant Superintendent Dead Horse Lake\n     Golf Course"
+      },
+      {
+        "name": "Kris Drake",
+        "title": "Grounds Superintendent"
+      },
+      {
+        "name": "Lenoir City",
+        "title": "Tennessee"
+      },
+      {
+        "name": "Jeffrey Dudych",
+        "title": "Director"
+      },
+      {
+        "name": "Microsoft Excel",
+        "title": "Microsoft Word"
+      },
+      {
+        "name": "Harker Heights",
+        "title": "Texas"
+      },
+      {
+        "name": "Brian Loveday",
+        "title": "Trade Sales Representative"
+      },
+      {
+        "name": "Den Country Club",
+        "title": "Golf"
+      },
+      {
+        "name": "Smoky Mountains",
+        "title": "Fox Den"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Katie Brinker",
+        "title": "Head Golf Professional"
+      },
+      {
+        "name": "Information Analysis                                       \n      Reasoning",
+        "title": "Have"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Local"
+      },
+      {
+        "name": "Business Type",
+        "title": "Family"
+      },
+      {
+        "name": "Contacts Section",
+        "title": "Leadership Team"
+      },
+      {
+        "name": "Vice President",
+        "title": "Status"
+      },
+      {
+        "name": "Last Verified",
+        "title": "January"
+      },
+      {
+        "name": "Assistant Superintendent",
+        "title": "Status"
+      },
+      {
+        "name": "Employment Status Source",
+        "title": "Linked"
+      },
+      {
+        "name": "Social Media",
+        "title": "Facebook"
+      },
+      {
+        "name": "Travis Hopkins",
+        "title": "President/Owner"
+      }
+    ],
+    "benchmark_matches": [
+      "Pete Parker",
+      "Joe Parker",
+      "Forrest Salts",
+      "Katie Brinker",
+      "Travis Hopkins"
+    ],
+    "benchmark_missed": [
+      "Bo Harris"
+    ],
+    "extra_contacts": [
+      {
+        "name": "Debug Mode",
+        "title": "True"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence"
+      },
+      {
+        "name": "Analysis Plan                                     \n      Reasoning",
+        "title": "Need"
+      },
+      {
+        "name": "Head Groundskeeper",
+        "title": "General Manager"
+      },
+      {
+        "name": "Head Golf Professional",
+        "title": "Director"
+      },
+      {
+        "name": "Leadership Contacts                                     \n      Reasoning",
+        "title": "Confirmed"
+      },
+      {
+        "name": "Booking System",
+        "title": "Organizer"
+      },
+      {
+        "name": "American Sign Language",
+        "title": "English Interpreting"
+      },
+      {
+        "name": "Frank Gardner Lane",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Hutch Brown",
+        "title": "Office"
+      },
+      {
+        "name": "San Francisco",
+        "title": "California"
+      },
+      {
+        "name": "Initial Findings                                           \n      Reasoning",
+        "title": "From"
+      },
+      {
+        "name": "Kris Drake",
+        "title": "Grounds Superintendent"
+      },
+      {
+        "name": "Lenoir City",
+        "title": "Tennessee"
+      },
+      {
+        "name": "Jeffrey Dudych",
+        "title": "Director"
+      },
+      {
+        "name": "Microsoft Excel",
+        "title": "Microsoft Word"
+      },
+      {
+        "name": "Harker Heights",
+        "title": "Texas"
+      },
+      {
+        "name": "Brian Loveday",
+        "title": "Trade Sales Representative"
+      },
+      {
+        "name": "Den Country Club",
+        "title": "Golf"
+      },
+      {
+        "name": "Smoky Mountains",
+        "title": "Fox Den"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Information Analysis                                       \n      Reasoning",
+        "title": "Have"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Local"
+      },
+      {
+        "name": "Business Type",
+        "title": "Family"
+      },
+      {
+        "name": "Contacts Section",
+        "title": "Leadership Team"
+      },
+      {
+        "name": "Vice President",
+        "title": "Status"
+      },
+      {
+        "name": "Last Verified",
+        "title": "January"
+      },
+      {
+        "name": "Assistant Superintendent",
+        "title": "Status"
+      },
+      {
+        "name": "Employment Status Source",
+        "title": "Linked"
+      },
+      {
+        "name": "Social Media",
+        "title": "Facebook"
+      }
+    ],
+    "accuracy": 0.8333333333333334
+  },
+  "gemini_flash": {
+    "contacts_found": 10,
+    "contacts": [
+      {
+        "name": "Katie Brinker",
+        "title": "Unknown"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence scoring"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Katie Brinker Golf",
+        "title": "Knoxville T"
+      },
+      {
+        "name": "Lake Golf Club",
+        "title": "Direct email"
+      },
+      {
+        "name": "Business Information",
+        "title": "Name"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Type"
+      },
+      {
+        "name": "Teaching Professional",
+        "title": "Direct Phone"
+      },
+      {
+        "name": "Travis Hopkins",
+        "title": "President/Owner"
+      },
+      {
+        "name": "Joe Parker",
+        "title": "Superintendent"
+      }
+    ],
+    "benchmark_matches": [
+      "Katie Brinker",
+      "Katie Brinker",
+      "Travis Hopkins",
+      "Joe Parker"
+    ],
+    "benchmark_missed": [
+      "Forrest Salts",
+      "Pete Parker",
+      "Bo Harris"
+    ],
+    "extra_contacts": [
+      {
+        "name": "Quality Control",
+        "title": "Confidence scoring"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Lake Golf Club",
+        "title": "Direct email"
+      },
+      {
+        "name": "Business Information",
+        "title": "Name"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Type"
+      },
+      {
+        "name": "Teaching Professional",
+        "title": "Direct Phone"
+      }
+    ],
+    "accuracy": 0.6666666666666666
+  },
+  "kimi_k2": {
+    "contacts_found": 33,
+    "contacts": [
+      {
+        "name": "Debug Mode",
+        "title": "True"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence"
+      },
+      {
+        "name": "Initial Assessment                                                 \n      Reasoning",
+        "title": "Need"
+      },
+      {
+        "name": "Business Research                                                  \n      Reasoning",
+        "title": "We"
+      },
+      {
+        "name": "Maxim Golf Solutions",
+        "title": "Maxim Golf Solutions"
+      },
+      {
+        "name": "American Sign Language",
+        "title": "English Interpreting"
+      },
+      {
+        "name": "Frank Gardner Ln",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Golf"
+      },
+      {
+        "name": "Course Type",
+        "title": "Public"
+      },
+      {
+        "name": "Head Pro",
+        "title": "Kyle Minor"
+      },
+      {
+        "name": "Jones Initiative",
+        "title": "The Donald Ross Initiative"
+      },
+      {
+        "name": "Sarasota Herald",
+        "title": "June"
+      },
+      {
+        "name": "Frank Gardner  \n      Ln",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Frank Gardner Lane",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Business Type",
+        "title": "Public"
+      },
+      {
+        "name": "Operating Hours",
+        "title": "Apr"
+      },
+      {
+        "name": "Main Contact",
+        "title": "Pro Shop"
+      },
+      {
+        "name": "Research Analysis                                          \n      Reasoning",
+        "title": "While"
+      },
+      {
+        "name": "Driving Range",
+        "title": "Chipping"
+      },
+      {
+        "name": "Pattern Analysis                                           \n      Reasoning",
+        "title": "From"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Course Size",
+        "title": "Par"
+      },
+      {
+        "name": "Information Analysis                                       \n      Reasoning",
+        "title": "While"
+      },
+      {
+        "name": "Course Details",
+        "title": "Par"
+      },
+      {
+        "name": "Pro Shop Manager",
+        "title": "Department"
+      },
+      {
+        "name": "Pro Shop",
+        "title": "Phone"
+      },
+      {
+        "name": "Last Verified",
+        "title": "August"
+      },
+      {
+        "name": "Course Operations",
+        "title": "Department"
+      },
+      {
+        "name": "Course Management",
+        "title": "Phone"
+      },
+      {
+        "name": "Travis Hopkins",
+        "title": "President/Owner"
+      },
+      {
+        "name": "Joe Parker",
+        "title": "Superintendent"
+      },
+      {
+        "name": "Pete Parker",
+        "title": "Superintendent"
+      },
+      {
+        "name": "Katie Brinker",
+        "title": "Head Golf Professional"
+      }
+    ],
+    "benchmark_matches": [
+      "Travis Hopkins",
+      "Joe Parker",
+      "Pete Parker",
+      "Katie Brinker"
+    ],
+    "benchmark_missed": [
+      "Forrest Salts",
+      "Bo Harris"
+    ],
+    "extra_contacts": [
+      {
+        "name": "Debug Mode",
+        "title": "True"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence"
+      },
+      {
+        "name": "Initial Assessment                                                 \n      Reasoning",
+        "title": "Need"
+      },
+      {
+        "name": "Business Research                                                  \n      Reasoning",
+        "title": "We"
+      },
+      {
+        "name": "Maxim Golf Solutions",
+        "title": "Maxim Golf Solutions"
+      },
+      {
+        "name": "American Sign Language",
+        "title": "English Interpreting"
+      },
+      {
+        "name": "Frank Gardner Ln",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Golf"
+      },
+      {
+        "name": "Course Type",
+        "title": "Public"
+      },
+      {
+        "name": "Head Pro",
+        "title": "Kyle Minor"
+      },
+      {
+        "name": "Jones Initiative",
+        "title": "The Donald Ross Initiative"
+      },
+      {
+        "name": "Sarasota Herald",
+        "title": "June"
+      },
+      {
+        "name": "Frank Gardner  \n      Ln",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Frank Gardner Lane",
+        "title": "Knoxville"
+      },
+      {
+        "name": "Business Type",
+        "title": "Public"
+      },
+      {
+        "name": "Operating Hours",
+        "title": "Apr"
+      },
+      {
+        "name": "Main Contact",
+        "title": "Pro Shop"
+      },
+      {
+        "name": "Research Analysis                                          \n      Reasoning",
+        "title": "While"
+      },
+      {
+        "name": "Driving Range",
+        "title": "Chipping"
+      },
+      {
+        "name": "Pattern Analysis                                           \n      Reasoning",
+        "title": "From"
+      },
+      {
+        "name": "Motivated Self",
+        "title": "Starter Looking"
+      },
+      {
+        "name": "Course Size",
+        "title": "Par"
+      },
+      {
+        "name": "Information Analysis                                       \n      Reasoning",
+        "title": "While"
+      },
+      {
+        "name": "Course Details",
+        "title": "Par"
+      },
+      {
+        "name": "Pro Shop Manager",
+        "title": "Department"
+      },
+      {
+        "name": "Pro Shop",
+        "title": "Phone"
+      },
+      {
+        "name": "Last Verified",
+        "title": "August"
+      },
+      {
+        "name": "Course Operations",
+        "title": "Department"
+      },
+      {
+        "name": "Course Management",
+        "title": "Phone"
+      }
+    ],
+    "accuracy": 0.6666666666666666
+  },
+  "claude_sonnet_4": {
+    "contacts_found": 23,
+    "contacts": [
+      {
+        "name": "Router Response Start",
+        "title": "----------------"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence scoring based on employment recency AND data quality:"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Golf in Knoxville,"
+      },
+      {
+        "name": "Save As Favorite",
+        "title": "97"
+      },
+      {
+        "name": "Oak Ridge",
+        "title": "[Dead Horse Lake Golf"
+      },
+      {
+        "name": "Lenoir City",
+        "title": "[View All"
+      },
+      {
+        "name": "Scholarship Directory",
+        "title": "BigFuture Scholarship Search\","
+      },
+      {
+        "name": "Saved Scholarships List",
+        "title": "no Scholarships are selected"
+      },
+      {
+        "name": "Trey Parker",
+        "title": "Vice President at Parker Properties/Dead"
+      },
+      {
+        "name": "Forrest Salts",
+        "title": "Assistant Superintendent Dead Horse Lake"
+      },
+      {
+        "name": "Brad Courteau",
+        "title": "Superintendent at Whittle Springs Golf"
+      },
+      {
+        "name": "Scott Perkins",
+        "title": "Golf Professional at Willow Creek Golf"
+      },
+      {
+        "name": "James Hawkins",
+        "title": "Head Professional at Beaver Brook Golf &"
+      },
+      {
+        "name": "Fishery Status                                                        \n     Update",
+        "title": "2023]"
+      },
+      {
+        "name": "Deadhorse Lodge",
+        "title": "Mercer, WI\","
+      },
+      {
+        "name": "Fishery Status                                                       \n      Update",
+        "title": "2023]"
+      },
+      {
+        "name": "Resource Management",
+        "title": "Last Verified: April 2024"
+      },
+      {
+        "name": "Golf Course Manager",
+        "title": "Sources Used:"
+      },
+      {
+        "name": "Golf Course Databases",
+        "title": "Verification Methods:"
+      },
+      {
+        "name": "Router Response End",
+        "title": "-----------------"
+      },
+      {
+        "name": "Travis Hopkins",
+        "title": "President/Owner"
+      },
+      {
+        "name": "Joe Parker",
+        "title": "Superintendent"
+      },
+      {
+        "name": "Pete Parker",
+        "title": "Superintendent"
+      }
+    ],
+    "benchmark_matches": [
+      "Joe Parker",
+      "Forrest Salts",
+      "Travis Hopkins",
+      "Joe Parker",
+      "Pete Parker"
+    ],
+    "benchmark_missed": [
+      "Katie Brinker",
+      "Bo Harris"
+    ],
+    "extra_contacts": [
+      {
+        "name": "Router Response Start",
+        "title": "----------------"
+      },
+      {
+        "name": "Quality Control",
+        "title": "Confidence scoring based on employment recency AND data quality:"
+      },
+      {
+        "name": "Lake Golf Course",
+        "title": "Golf in Knoxville,"
+      },
+      {
+        "name": "Save As Favorite",
+        "title": "97"
+      },
+      {
+        "name": "Oak Ridge",
+        "title": "[Dead Horse Lake Golf"
+      },
+      {
+        "name": "Lenoir City",
+        "title": "[View All"
+      },
+      {
+        "name": "Scholarship Directory",
+        "title": "BigFuture Scholarship Search\","
+      },
+      {
+        "name": "Saved Scholarships List",
+        "title": "no Scholarships are selected"
+      },
+      {
+        "name": "Brad Courteau",
+        "title": "Superintendent at Whittle Springs Golf"
+      },
+      {
+        "name": "Scott Perkins",
+        "title": "Golf Professional at Willow Creek Golf"
+      },
+      {
+        "name": "James Hawkins",
+        "title": "Head Professional at Beaver Brook Golf &"
+      },
+      {
+        "name": "Fishery Status                                                        \n     Update",
+        "title": "2023]"
+      },
+      {
+        "name": "Deadhorse Lodge",
+        "title": "Mercer, WI\","
+      },
+      {
+        "name": "Fishery Status                                                       \n      Update",
+        "title": "2023]"
+      },
+      {
+        "name": "Resource Management",
+        "title": "Last Verified: April 2024"
+      },
+      {
+        "name": "Golf Course Manager",
+        "title": "Sources Used:"
+      },
+      {
+        "name": "Golf Course Databases",
+        "title": "Verification Methods:"
+      },
+      {
+        "name": "Router Response End",
+        "title": "-----------------"
+      }
+    ],
+    "accuracy": 0.8333333333333334
+  }
+}

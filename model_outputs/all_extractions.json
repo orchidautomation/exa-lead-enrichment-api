@@ -1,0 +1,521 @@
+{
+  "glm_4_5": {
+    "business": {
+      "name": "'think'",
+      "business_type": "Public Golf Course",
+      "address": "555 Frank Gardner Lane, Knoxville, TN 37932",
+      "phone": "(865) 693-5270",
+      "website_url": "N/A\\nIndustry: N/A\\nEmployees:",
+      "description": null,
+      "years_established": 2024,
+      "services_offered": [
+        "18-hole golf course",
+        "driving range",
+        "pro shop"
+      ],
+      "operating_hours": "April-October 7:00AM-8:00PM, November-March 8:00AM-6:00PM"
+    },
+    "contacts": [
+      {
+        "name": "'think'",
+        "title": "Initial Search Strategy Planning",
+        "business_name": "'think'",
+        "phone": "(865) 693-5270",
+        "phone_type": "Public",
+        "email": "travis.hopkins@deadhorselake.com",
+        "email_type": "PATTERN",
+        "employment_status": "LIKELY_CURRENT",
+        "verification_recency": "Business",
+        "background_summary": "Key leadership role",
+        "confidence_score": 0.9,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      }
+    ],
+    "contacts_found": 1,
+    "metadata": {
+      "search_terms_used": [
+        "leadership",
+        "superintendent",
+        "manager",
+        "deadhorselake.com"
+      ],
+      "sources_searched": [
+        "Business Website",
+        "LinkedIn",
+        "Local Directories"
+      ],
+      "verification_methods": [
+        "Website verification",
+        "LinkedIn profiles"
+      ],
+      "total_results_analyzed": 10,
+      "job_titles_searched": [
+        "Superintendent",
+        "General Manager",
+        "Director"
+      ],
+      "search_location": "Knoxville, TN",
+      "email_pattern_detected": "first.last@deadhorselake.com",
+      "emails_found_count": 0
+    },
+    "search_confidence": "MEDIUM",
+    "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+  },
+  "gemini_pro": {
+    "business": {
+      "name": "'think'",
+      "business_type": "Public\\n- Architect: Joe Parker\\n- Opened: 1972\\n-",
+      "address": "555 Frank Gardner Lane, Knoxville, TN 37932",
+      "phone": "423-693-5270\\n\\n# Follow Dead Horse Lake Golf",
+      "website_url": "N/A\\nIndustry: N/A\\nEmployees:",
+      "description": null,
+      "years_established": null,
+      "services_offered": [
+        "18-hole par 72 golf course",
+        "recently renovated",
+        "pro shop",
+        "golf"
+      ],
+      "operating_hours": "7AM-7PM daily (seasonal variations)"
+    },
+    "contacts": [
+      {
+        "name": "'think'",
+        "title": "Initial Business Analysis",
+        "business_name": "'think'",
+        "phone": "423-693-5270\\n\\n# Follow Dead Horse Lake Golf                 \n     Course\\n\\n[![facebook]",
+        "phone_type": "Public",
+        "email": "katie.brinker@deadhorselake.com",
+        "email_type": "PATTERN",
+        "employment_status": "CURRENT",
+        "verification_recency": "RECENT",
+        "background_summary": "Key leadership role",
+        "confidence_score": 0.9,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      }
+    ],
+    "contacts_found": 1,
+    "metadata": {
+      "search_terms_used": [
+        "leadership",
+        "superintendent",
+        "manager",
+        "deadhorselake.com"
+      ],
+      "sources_searched": [
+        "Business Website",
+        "LinkedIn",
+        "Local Directories"
+      ],
+      "verification_methods": [
+        "Website verification",
+        "LinkedIn profiles"
+      ],
+      "total_results_analyzed": 10,
+      "job_titles_searched": [
+        "Superintendent",
+        "General Manager",
+        "Director"
+      ],
+      "search_location": "Knoxville, TN",
+      "email_pattern_detected": "first.last@deadhorselake.com",
+      "emails_found_count": 0
+    },
+    "search_confidence": "MEDIUM",
+    "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+  },
+  "qwen3": {
+    "business": {
+      "name": "'think'",
+      "business_type": "Family-owned public golf course",
+      "address": "9891 Sherrill Blvd, Knoxville, TN 37932",
+      "phone": "865-693-5270",
+      "website_url": null,
+      "description": null,
+      "years_established": 2004,
+      "services_offered": null,
+      "operating_hours": "\\n\\nMonday:\\u00a0 Closed\\n\\nTuesday -"
+    },
+    "contacts": [
+      {
+        "name": "'think'",
+        "title": "Initial Analysis",
+        "business_name": "'think'",
+        "phone": "865-693-5270                                                     \n      - Hours: 7 AM - 7 PM daily                                                \n                                                                                \n      2. Key Leadership:                                                        \n      - Trey Parker - Vice President",
+        "phone_type": "Family",
+        "email": "trey.parker@deadhorselake.com",
+        "email_type": "PATTERN",
+        "employment_status": "CURRENT",
+        "verification_recency": "Local",
+        "background_summary": "Key leadership role",
+        "confidence_score": 0.9,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      }
+    ],
+    "contacts_found": 1,
+    "metadata": {
+      "search_terms_used": [
+        "leadership",
+        "superintendent",
+        "manager",
+        "deadhorselake.com"
+      ],
+      "sources_searched": [
+        "Business Website",
+        "LinkedIn",
+        "Local Directories"
+      ],
+      "verification_methods": [
+        "Website verification",
+        "LinkedIn profiles"
+      ],
+      "total_results_analyzed": 10,
+      "job_titles_searched": [
+        "Superintendent",
+        "General Manager",
+        "Director"
+      ],
+      "search_location": "Knoxville, TN",
+      "email_pattern_detected": "first.last@deadhorselake.com",
+      "emails_found_count": 0
+    },
+    "search_confidence": "MEDIUM",
+    "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+  },
+  "deepseek_r1": {
+    "business": {
+      "name": "Dead Horse Lake Golf Course",
+      "business_type": "Public golf course",
+      "address": "555 Frank Gardner Lane, Knoxville, TN 37932",
+      "phone": "865-693-5270",
+      "website_url": "deadhorselake.com",
+      "description": null,
+      "years_established": null,
+      "services_offered": null,
+      "operating_hours": "April-October 7:00AM-8:00PM, November-March 8:00AM-6:00PM"
+    },
+    "contacts": [
+      {
+        "name": "Business Section:",
+        "title": "Name: Dead Horse Lake Golf Course",
+        "business_name": "Dead Horse Lake Golf Course",
+        "phone": "(865) 693-5270",
+        "phone_type": "BUSINESS_MAIN",
+        "email": "business.section:......................................................@deadhorselake.com",
+        "email_type": "PATTERN",
+        "employment_status": "CURRENT",
+        "verification_recency": "RECENT",
+        "background_summary": "Name: Dead Horse Lake Golf Course at Dead Horse Lake Golf Course",
+        "confidence_score": 0.8,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      },
+      {
+        "name": "Trey Parker",
+        "title": "Title: Vice President",
+        "business_name": "Dead Horse Lake Golf Course",
+        "phone": "(865) 693-5270",
+        "phone_type": "BUSINESS_MAIN",
+        "email": "trey.parker............................................................@deadhorselake.com",
+        "email_type": "PATTERN",
+        "employment_status": "CURRENT",
+        "verification_recency": "RECENT",
+        "background_summary": "Title: Vice President at Dead Horse Lake Golf Course",
+        "confidence_score": 0.8,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      },
+      {
+        "name": "Forrest Salts",
+        "title": "Title: Assistant Superintendent",
+        "business_name": "Dead Horse Lake Golf Course",
+        "phone": "(865) 693-5270",
+        "phone_type": "BUSINESS_MAIN",
+        "email": "forrest.salts..........................................................@deadhorselake.com",
+        "email_type": "PATTERN",
+        "employment_status": "CURRENT",
+        "verification_recency": "RECENT",
+        "background_summary": "Title: Assistant Superintendent at Dead Horse Lake Golf Course",
+        "confidence_score": 0.8,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      },
+      {
+        "name": "Katie Brinker, LPGA",
+        "title": "Title: Head Golf Professional",
+        "business_name": "Dead Horse Lake Golf Course",
+        "phone": "(865) 693-5270",
+        "phone_type": "BUSINESS_MAIN",
+        "email": "katie.brinker,.lpga....................................................@deadhorselake.com",
+        "email_type": "PATTERN",
+        "employment_status": "CURRENT",
+        "verification_recency": "RECENT",
+        "background_summary": "Title: Head Golf Professional at Dead Horse Lake Golf Course",
+        "confidence_score": 0.8,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      },
+      {
+        "name": "Metadata Section:",
+        "title": "Employment Status Source: LinkedIn profiles and recent news articles",
+        "business_name": "Dead Horse Lake Golf Course",
+        "phone": "(865) 693-5270",
+        "phone_type": "BUSINESS_MAIN",
+        "email": "metadata.section:......................................................@deadhorselake.com",
+        "email_type": "PATTERN",
+        "employment_status": "CURRENT",
+        "verification_recency": "RECENT",
+        "background_summary": "Employment Status Source: LinkedIn profiles and recent news articles at Dead Horse Lake Golf Course",
+        "confidence_score": 0.8,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      }
+    ],
+    "contacts_found": 5,
+    "metadata": {
+      "search_terms_used": [
+        "leadership",
+        "superintendent",
+        "manager",
+        "deadhorselake.com"
+      ],
+      "sources_searched": [
+        "Business Website",
+        "LinkedIn",
+        "Local Directories"
+      ],
+      "verification_methods": [
+        "Website verification",
+        "LinkedIn profiles"
+      ],
+      "total_results_analyzed": 10,
+      "job_titles_searched": [
+        "Superintendent",
+        "General Manager",
+        "Director"
+      ],
+      "search_location": "Knoxville, TN",
+      "email_pattern_detected": "first.last@deadhorselake.com",
+      "emails_found_count": 0
+    },
+    "search_confidence": "HIGH",
+    "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+  },
+  "gemini_flash": {
+    "business": {
+      "name": "'think'",
+      "business_type": "Public Golf Course (Family owned and operated)",
+      "address": "555 Frank Gardner Lane, Knoxville, TN 37932",
+      "phone": "(865) 693-5270",
+      "website_url": "\\u00a0[https://allieknightgolf.com/](https://allieknightgolf.com/)",
+      "description": null,
+      "years_established": null,
+      "services_offered": [
+        "Par 72 course",
+        "4 sets of tees (6",
+        "300 to 4",
+        "600 yards)"
+      ],
+      "operating_hours": "Apr-Oct 7AM-8PM, Nov-Mar 8AM-6PM"
+    },
+    "contacts": [
+      {
+        "name": "'think'",
+        "title": "Initial Business Analysis",
+        "business_name": "'think'",
+        "phone": "(865) 693-5270",
+        "phone_type": "Public",
+        "email": "krbrinker@hotmail.com",
+        "email_type": "DIRECT",
+        "employment_status": "CURRENT",
+        "verification_recency": "RECENT",
+        "background_summary": "Key leadership role",
+        "confidence_score": 0.9,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      }
+    ],
+    "contacts_found": 1,
+    "metadata": {
+      "search_terms_used": [
+        "leadership",
+        "superintendent",
+        "manager",
+        "deadhorselake.com"
+      ],
+      "sources_searched": [
+        "Business Website",
+        "LinkedIn",
+        "Local Directories"
+      ],
+      "verification_methods": [
+        "Website verification",
+        "LinkedIn profiles"
+      ],
+      "total_results_analyzed": 10,
+      "job_titles_searched": [
+        "Superintendent",
+        "General Manager",
+        "Director"
+      ],
+      "search_location": "Knoxville, TN",
+      "email_pattern_detected": "first.last@deadhorselake.com",
+      "emails_found_count": 1
+    },
+    "search_confidence": "MEDIUM",
+    "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+  },
+  "kimi_k2": {
+    "business": {
+      "name": "'think'",
+      "business_type": "Public\\n- Architect: Joe Parker\\n- Opened: 1972\\n-",
+      "address": "555 Frank Gardner Lane, Knoxville, TN 37932",
+      "phone": "423-693-5270\\n\\n# Follow Dead Horse Lake Golf",
+      "website_url": "N/A\\nIndustry: N/A\\nEmployees:",
+      "description": null,
+      "years_established": null,
+      "services_offered": null,
+      "operating_hours": "Apr-Oct 7AM-8PM, Nov-Mar 8AM-6PM"
+    },
+    "contacts": [
+      {
+        "name": "'think'",
+        "title": "Initial Assessment",
+        "business_name": "'think'",
+        "phone": "423-693-5270\\n\\n# Follow Dead Horse Lake Golf                 \n     Course\\n\\n[![facebook]",
+        "phone_type": "Public",
+        "email": "info@deadhorselake.com",
+        "email_type": "PATTERN",
+        "employment_status": "CURRENT",
+        "verification_recency": "RECENT",
+        "background_summary": "Key leadership role",
+        "confidence_score": 0.9,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      }
+    ],
+    "contacts_found": 1,
+    "metadata": {
+      "search_terms_used": [
+        "leadership",
+        "superintendent",
+        "manager",
+        "deadhorselake.com"
+      ],
+      "sources_searched": [
+        "Business Website",
+        "LinkedIn",
+        "Local Directories"
+      ],
+      "verification_methods": [
+        "Website verification",
+        "LinkedIn profiles"
+      ],
+      "total_results_analyzed": 10,
+      "job_titles_searched": [
+        "Superintendent",
+        "General Manager",
+        "Director"
+      ],
+      "search_location": "Knoxville, TN",
+      "email_pattern_detected": "first.last@deadhorselake.com",
+      "emails_found_count": 0
+    },
+    "search_confidence": "MEDIUM",
+    "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+  },
+  "claude_sonnet_4": {
+    "business": {
+      "name": "Dead Horse Lake Golf Course",
+      "business_type": "Public Golf Course",
+      "address": "555 Frank Gardner Lane, Knoxville, TN 37932",
+      "phone": "(865) 693-5270",
+      "website_url": null,
+      "description": null,
+      "years_established": 1973,
+      "services_offered": [
+        "Pro Shop",
+        "Driving Range",
+        "Restaurant",
+        "Bar"
+      ],
+      "operating_hours": "Weather Permitting"
+    },
+    "contacts": [
+      {
+        "name": "Business Section:",
+        "title": "Name: Dead Horse Lake Golf Course",
+        "business_name": "Dead Horse Lake Golf Course",
+        "phone": "(865) 693-5270",
+        "phone_type": "BUSINESS_MAIN",
+        "email": "business.section:......................................................@deadhorselake.com",
+        "email_type": "PATTERN",
+        "employment_status": "CURRENT",
+        "verification_recency": "RECENT",
+        "background_summary": "Name: Dead Horse Lake Golf Course at Dead Horse Lake Golf Course",
+        "confidence_score": 0.8,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      },
+      {
+        "name": "Metadata Section:",
+        "title": "Email Pattern Detected: first.last@deadhorselake.com",
+        "business_name": "Dead Horse Lake Golf Course",
+        "phone": "(865) 693-5270",
+        "phone_type": "BUSINESS_MAIN",
+        "email": "metadata.section:......................................................@deadhorselake.com",
+        "email_type": "PATTERN",
+        "employment_status": "CURRENT",
+        "verification_recency": "RECENT",
+        "background_summary": "Email Pattern Detected: first.last@deadhorselake.com at Dead Horse Lake Golf Course",
+        "confidence_score": 0.8,
+        "source_urls": [
+          "deadhorselake.com"
+        ]
+      }
+    ],
+    "contacts_found": 2,
+    "metadata": {
+      "search_terms_used": [
+        "leadership",
+        "superintendent",
+        "manager",
+        "deadhorselake.com"
+      ],
+      "sources_searched": [
+        "Business Website",
+        "LinkedIn",
+        "Local Directories"
+      ],
+      "verification_methods": [
+        "Website verification",
+        "LinkedIn profiles"
+      ],
+      "total_results_analyzed": 10,
+      "job_titles_searched": [
+        "Superintendent",
+        "General Manager",
+        "Director"
+      ],
+      "search_location": "Knoxville, TN",
+      "email_pattern_detected": "first.last@deadhorselake.com",
+      "emails_found_count": 0
+    },
+    "search_confidence": "HIGH",
+    "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+  }
+}

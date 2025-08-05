@@ -1,0 +1,60 @@
+{
+  "business": {
+    "name": "'think'",
+    "business_type": "Public\\n- Architect: Joe Parker\\n- Opened: 1972\\n-",
+    "address": "555 Frank Gardner Lane, Knoxville, TN 37932",
+    "phone": "423-693-5270\\n\\n# Follow Dead Horse Lake Golf",
+    "website_url": "N/A\\nIndustry: N/A\\nEmployees:",
+    "description": null,
+    "years_established": null,
+    "services_offered": null,
+    "operating_hours": "Apr-Oct 7AM-8PM, Nov-Mar 8AM-6PM"
+  },
+  "contacts": [
+    {
+      "name": "'think'",
+      "title": "Initial Assessment",
+      "business_name": "'think'",
+      "phone": "423-693-5270\\n\\n# Follow Dead Horse Lake Golf                 \n     Course\\n\\n[![facebook]",
+      "phone_type": "Public",
+      "email": "info@deadhorselake.com",
+      "email_type": "PATTERN",
+      "employment_status": "CURRENT",
+      "verification_recency": "RECENT",
+      "background_summary": "Key leadership role",
+      "confidence_score": 0.9,
+      "source_urls": [
+        "deadhorselake.com"
+      ]
+    }
+  ],
+  "contacts_found": 1,
+  "metadata": {
+    "search_terms_used": [
+      "leadership",
+      "superintendent",
+      "manager",
+      "deadhorselake.com"
+    ],
+    "sources_searched": [
+      "Business Website",
+      "LinkedIn",
+      "Local Directories"
+    ],
+    "verification_methods": [
+      "Website verification",
+      "LinkedIn profiles"
+    ],
+    "total_results_analyzed": 10,
+    "job_titles_searched": [
+      "Superintendent",
+      "General Manager",
+      "Director"
+    ],
+    "search_location": "Knoxville, TN",
+    "email_pattern_detected": "first.last@deadhorselake.com",
+    "emails_found_count": 0
+  },
+  "search_confidence": "MEDIUM",
+  "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+}

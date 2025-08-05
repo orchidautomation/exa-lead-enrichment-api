@@ -1,0 +1,124 @@
+{
+  "business": {
+    "name": "Dead Horse Lake Golf Course",
+    "business_type": "Public golf course",
+    "address": "555 Frank Gardner Lane, Knoxville, TN 37932",
+    "phone": "865-693-5270",
+    "website_url": "deadhorselake.com",
+    "description": null,
+    "years_established": null,
+    "services_offered": null,
+    "operating_hours": "April-October 7:00AM-8:00PM, November-March 8:00AM-6:00PM"
+  },
+  "contacts": [
+    {
+      "name": "Business Section:",
+      "title": "Name: Dead Horse Lake Golf Course",
+      "business_name": "Dead Horse Lake Golf Course",
+      "phone": "(865) 693-5270",
+      "phone_type": "BUSINESS_MAIN",
+      "email": "business.section:......................................................@deadhorselake.com",
+      "email_type": "PATTERN",
+      "employment_status": "CURRENT",
+      "verification_recency": "RECENT",
+      "background_summary": "Name: Dead Horse Lake Golf Course at Dead Horse Lake Golf Course",
+      "confidence_score": 0.8,
+      "source_urls": [
+        "deadhorselake.com"
+      ]
+    },
+    {
+      "name": "Trey Parker",
+      "title": "Title: Vice President",
+      "business_name": "Dead Horse Lake Golf Course",
+      "phone": "(865) 693-5270",
+      "phone_type": "BUSINESS_MAIN",
+      "email": "trey.parker............................................................@deadhorselake.com",
+      "email_type": "PATTERN",
+      "employment_status": "CURRENT",
+      "verification_recency": "RECENT",
+      "background_summary": "Title: Vice President at Dead Horse Lake Golf Course",
+      "confidence_score": 0.8,
+      "source_urls": [
+        "deadhorselake.com"
+      ]
+    },
+    {
+      "name": "Forrest Salts",
+      "title": "Title: Assistant Superintendent",
+      "business_name": "Dead Horse Lake Golf Course",
+      "phone": "(865) 693-5270",
+      "phone_type": "BUSINESS_MAIN",
+      "email": "forrest.salts..........................................................@deadhorselake.com",
+      "email_type": "PATTERN",
+      "employment_status": "CURRENT",
+      "verification_recency": "RECENT",
+      "background_summary": "Title: Assistant Superintendent at Dead Horse Lake Golf Course",
+      "confidence_score": 0.8,
+      "source_urls": [
+        "deadhorselake.com"
+      ]
+    },
+    {
+      "name": "Katie Brinker, LPGA",
+      "title": "Title: Head Golf Professional",
+      "business_name": "Dead Horse Lake Golf Course",
+      "phone": "(865) 693-5270",
+      "phone_type": "BUSINESS_MAIN",
+      "email": "katie.brinker,.lpga....................................................@deadhorselake.com",
+      "email_type": "PATTERN",
+      "employment_status": "CURRENT",
+      "verification_recency": "RECENT",
+      "background_summary": "Title: Head Golf Professional at Dead Horse Lake Golf Course",
+      "confidence_score": 0.8,
+      "source_urls": [
+        "deadhorselake.com"
+      ]
+    },
+    {
+      "name": "Metadata Section:",
+      "title": "Employment Status Source: LinkedIn profiles and recent news articles",
+      "business_name": "Dead Horse Lake Golf Course",
+      "phone": "(865) 693-5270",
+      "phone_type": "BUSINESS_MAIN",
+      "email": "metadata.section:......................................................@deadhorselake.com",
+      "email_type": "PATTERN",
+      "employment_status": "CURRENT",
+      "verification_recency": "RECENT",
+      "background_summary": "Employment Status Source: LinkedIn profiles and recent news articles at Dead Horse Lake Golf Course",
+      "confidence_score": 0.8,
+      "source_urls": [
+        "deadhorselake.com"
+      ]
+    }
+  ],
+  "contacts_found": 5,
+  "metadata": {
+    "search_terms_used": [
+      "leadership",
+      "superintendent",
+      "manager",
+      "deadhorselake.com"
+    ],
+    "sources_searched": [
+      "Business Website",
+      "LinkedIn",
+      "Local Directories"
+    ],
+    "verification_methods": [
+      "Website verification",
+      "LinkedIn profiles"
+    ],
+    "total_results_analyzed": 10,
+    "job_titles_searched": [
+      "Superintendent",
+      "General Manager",
+      "Director"
+    ],
+    "search_location": "Knoxville, TN",
+    "email_pattern_detected": "first.last@deadhorselake.com",
+    "emails_found_count": 0
+  },
+  "search_confidence": "HIGH",
+  "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+}

@@ -1,0 +1,65 @@
+{
+  "business": {
+    "name": "'think'",
+    "business_type": "Public Golf Course (Family owned and operated)",
+    "address": "555 Frank Gardner Lane, Knoxville, TN 37932",
+    "phone": "(865) 693-5270",
+    "website_url": "\\u00a0[https://allieknightgolf.com/](https://allieknightgolf.com/)",
+    "description": null,
+    "years_established": null,
+    "services_offered": [
+      "Par 72 course",
+      "4 sets of tees (6",
+      "300 to 4",
+      "600 yards)"
+    ],
+    "operating_hours": "Apr-Oct 7AM-8PM, Nov-Mar 8AM-6PM"
+  },
+  "contacts": [
+    {
+      "name": "'think'",
+      "title": "Initial Business Analysis",
+      "business_name": "'think'",
+      "phone": "(865) 693-5270",
+      "phone_type": "Public",
+      "email": "krbrinker@hotmail.com",
+      "email_type": "DIRECT",
+      "employment_status": "CURRENT",
+      "verification_recency": "RECENT",
+      "background_summary": "Key leadership role",
+      "confidence_score": 0.9,
+      "source_urls": [
+        "deadhorselake.com"
+      ]
+    }
+  ],
+  "contacts_found": 1,
+  "metadata": {
+    "search_terms_used": [
+      "leadership",
+      "superintendent",
+      "manager",
+      "deadhorselake.com"
+    ],
+    "sources_searched": [
+      "Business Website",
+      "LinkedIn",
+      "Local Directories"
+    ],
+    "verification_methods": [
+      "Website verification",
+      "LinkedIn profiles"
+    ],
+    "total_results_analyzed": 10,
+    "job_titles_searched": [
+      "Superintendent",
+      "General Manager",
+      "Director"
+    ],
+    "search_location": "Knoxville, TN",
+    "email_pattern_detected": "first.last@deadhorselake.com",
+    "emails_found_count": 1
+  },
+  "search_confidence": "MEDIUM",
+  "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+}

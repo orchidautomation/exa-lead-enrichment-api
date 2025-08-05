@@ -1,0 +1,81 @@
+{
+  "business": {
+    "name": "Dead Horse Lake Golf Course",
+    "business_type": "Public Golf Course",
+    "address": "555 Frank Gardner Lane, Knoxville, TN 37932",
+    "phone": "(865) 693-5270",
+    "website_url": null,
+    "description": null,
+    "years_established": 1973,
+    "services_offered": [
+      "Pro Shop",
+      "Driving Range",
+      "Restaurant",
+      "Bar"
+    ],
+    "operating_hours": "Weather Permitting"
+  },
+  "contacts": [
+    {
+      "name": "Business Section:",
+      "title": "Name: Dead Horse Lake Golf Course",
+      "business_name": "Dead Horse Lake Golf Course",
+      "phone": "(865) 693-5270",
+      "phone_type": "BUSINESS_MAIN",
+      "email": "business.section:......................................................@deadhorselake.com",
+      "email_type": "PATTERN",
+      "employment_status": "CURRENT",
+      "verification_recency": "RECENT",
+      "background_summary": "Name: Dead Horse Lake Golf Course at Dead Horse Lake Golf Course",
+      "confidence_score": 0.8,
+      "source_urls": [
+        "deadhorselake.com"
+      ]
+    },
+    {
+      "name": "Metadata Section:",
+      "title": "Email Pattern Detected: first.last@deadhorselake.com",
+      "business_name": "Dead Horse Lake Golf Course",
+      "phone": "(865) 693-5270",
+      "phone_type": "BUSINESS_MAIN",
+      "email": "metadata.section:......................................................@deadhorselake.com",
+      "email_type": "PATTERN",
+      "employment_status": "CURRENT",
+      "verification_recency": "RECENT",
+      "background_summary": "Email Pattern Detected: first.last@deadhorselake.com at Dead Horse Lake Golf Course",
+      "confidence_score": 0.8,
+      "source_urls": [
+        "deadhorselake.com"
+      ]
+    }
+  ],
+  "contacts_found": 2,
+  "metadata": {
+    "search_terms_used": [
+      "leadership",
+      "superintendent",
+      "manager",
+      "deadhorselake.com"
+    ],
+    "sources_searched": [
+      "Business Website",
+      "LinkedIn",
+      "Local Directories"
+    ],
+    "verification_methods": [
+      "Website verification",
+      "LinkedIn profiles"
+    ],
+    "total_results_analyzed": 10,
+    "job_titles_searched": [
+      "Superintendent",
+      "General Manager",
+      "Director"
+    ],
+    "search_location": "Knoxville, TN",
+    "email_pattern_detected": "first.last@deadhorselake.com",
+    "emails_found_count": 0
+  },
+  "search_confidence": "HIGH",
+  "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+}

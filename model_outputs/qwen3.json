@@ -1,0 +1,60 @@
+{
+  "business": {
+    "name": "'think'",
+    "business_type": "Family-owned public golf course",
+    "address": "9891 Sherrill Blvd, Knoxville, TN 37932",
+    "phone": "865-693-5270",
+    "website_url": null,
+    "description": null,
+    "years_established": 2004,
+    "services_offered": null,
+    "operating_hours": "\\n\\nMonday:\\u00a0 Closed\\n\\nTuesday -"
+  },
+  "contacts": [
+    {
+      "name": "'think'",
+      "title": "Initial Analysis",
+      "business_name": "'think'",
+      "phone": "865-693-5270                                                     \n      - Hours: 7 AM - 7 PM daily                                                \n                                                                                \n      2. Key Leadership:                                                        \n      - Trey Parker - Vice President",
+      "phone_type": "Family",
+      "email": "trey.parker@deadhorselake.com",
+      "email_type": "PATTERN",
+      "employment_status": "CURRENT",
+      "verification_recency": "Local",
+      "background_summary": "Key leadership role",
+      "confidence_score": 0.9,
+      "source_urls": [
+        "deadhorselake.com"
+      ]
+    }
+  ],
+  "contacts_found": 1,
+  "metadata": {
+    "search_terms_used": [
+      "leadership",
+      "superintendent",
+      "manager",
+      "deadhorselake.com"
+    ],
+    "sources_searched": [
+      "Business Website",
+      "LinkedIn",
+      "Local Directories"
+    ],
+    "verification_methods": [
+      "Website verification",
+      "LinkedIn profiles"
+    ],
+    "total_results_analyzed": 10,
+    "job_titles_searched": [
+      "Superintendent",
+      "General Manager",
+      "Director"
+    ],
+    "search_location": "Knoxville, TN",
+    "email_pattern_detected": "first.last@deadhorselake.com",
+    "emails_found_count": 0
+  },
+  "search_confidence": "MEDIUM",
+  "search_query": "leadership/superintendent/manager of deadhorselake.com in knoxville"
+}

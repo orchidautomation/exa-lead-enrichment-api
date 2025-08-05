@@ -1,0 +1,51 @@
+[
+  {
+    "model": "deepseek_r1",
+    "score": 318.33333333333337,
+    "accuracy": 0.8333333333333334,
+    "total_contacts": 35,
+    "benchmark_matches": 5
+  },
+  {
+    "model": "qwen3",
+    "score": 289.66666666666663,
+    "accuracy": 0.6666666666666666,
+    "total_contacts": 33,
+    "benchmark_matches": 4
+  },
+  {
+    "model": "kimi_k2",
+    "score": 289.66666666666663,
+    "accuracy": 0.6666666666666666,
+    "total_contacts": 33,
+    "benchmark_matches": 4
+  },
+  {
+    "model": "gemini_pro",
+    "score": 240.66666666666666,
+    "accuracy": 0.6666666666666666,
+    "total_contacts": 26,
+    "benchmark_matches": 4
+  },
+  {
+    "model": "claude_sonnet_4",
+    "score": 234.33333333333334,
+    "accuracy": 0.8333333333333334,
+    "total_contacts": 23,
+    "benchmark_matches": 5
+  },
+  {
+    "model": "gemini_flash",
+    "score": 128.66666666666666,
+    "accuracy": 0.6666666666666666,
+    "total_contacts": 10,
+    "benchmark_matches": 4
+  },
+  {
+    "model": "glm_4_5",
+    "score": 106.33333333333333,
+    "accuracy": 0.3333333333333333,
+    "total_contacts": 11,
+    "benchmark_matches": 2
+  }
+]

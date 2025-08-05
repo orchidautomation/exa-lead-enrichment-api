@@ -1,0 +1,62 @@
+{
+  "test_date": "2025-08-04T20:58:17.662527",
+  "query": "leadership/superintendent/manager of deadhorselake.com in knoxville",
+  "models": {
+    "claude_sonnet_4": {
+      "status": "success",
+      "duration_seconds": 78.51677417755127,
+      "output_file": "model_outputs/claude_sonnet_4_output.txt",
+      "json_file": null,
+      "error": null,
+      "json_found": false
+    },
+    "kimi_k2": {
+      "status": "success",
+      "duration_seconds": 90.36719393730164,
+      "output_file": "model_outputs/kimi_k2_output.txt",
+      "json_file": null,
+      "error": null,
+      "json_found": false
+    },
+    "gemini_flash": {
+      "status": "success",
+      "duration_seconds": 79.52002692222595,
+      "output_file": "model_outputs/gemini_flash_output.txt",
+      "json_file": null,
+      "error": null,
+      "json_found": false
+    },
+    "gemini_pro": {
+      "status": "success",
+      "duration_seconds": 92.2675530910492,
+      "output_file": "model_outputs/gemini_pro_output.txt",
+      "json_file": null,
+      "error": null,
+      "json_found": false
+    },
+    "deepseek_r1": {
+      "status": "success",
+      "duration_seconds": 79.40790820121765,
+      "output_file": "model_outputs/deepseek_r1_output.txt",
+      "json_file": null,
+      "error": null,
+      "json_found": false
+    },
+    "qwen3": {
+      "status": "success",
+      "duration_seconds": 71.43308186531067,
+      "output_file": "model_outputs/qwen3_output.txt",
+      "json_file": null,
+      "error": null,
+      "json_found": false
+    },
+    "glm_4_5": {
+      "status": "success",
+      "duration_seconds": 69.4890067577362,
+      "output_file": "model_outputs/glm_4_5_output.txt",
+      "json_file": null,
+      "error": null,
+      "json_found": false
+    }
+  }
+}
